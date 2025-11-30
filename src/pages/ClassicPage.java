@@ -16,4 +16,7 @@ public class ClassicPage {
 		System.out.println("Hi Cart");
 		int h=10;
 	}
+	public void master(){
+		System.out.println("Hi Cart");
+	}
 }
