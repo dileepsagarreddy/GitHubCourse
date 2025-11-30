@@ -14,5 +14,6 @@ public class ClassicPage {
 		int sal=15;
 		
 		System.out.println("Hi Cart");
+		int h=10;
 	}
 }
