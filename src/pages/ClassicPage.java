@@ -2,9 +2,10 @@ package pages;
 
 public class ClassicPage {
 public static void classic() {
-	int n=10;
-	int n1=20;
-	int m=n+n1;
-	System.out.println(m);
+	int k=100;
+	int k1=20;
+	int div=k1/k;
+	System.out.println(div);
+  System.out.println("BYE");
 }
 }
