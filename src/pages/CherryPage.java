@@ -8,7 +8,8 @@ public class CherryPage {
 		int salary = 100;
 	//	bcd7e34 (HEAD -> master) first cherry commit
 
-		
+	//	fef49e8 (HEAD -> master) second charry commit
+
 	}
 
 }
